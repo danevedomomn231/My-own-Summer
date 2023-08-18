@@ -12,3 +12,11 @@ console.log(res.data);
                     { browserWSEndpoint: res.data.data.ws.puppeteer, defaultViewport: null, args: ['--start-fullscreen'],  });
                     
                       e-extension://nkbihfbeogaeaoehlefn
+ta.ws.puppeteer && res.data
+                    { browserWSEndpoint: res.data.data.ws.puppeteer, defaultViewport: null, args: ['--start-fullscreen'],  });
+                    ;
+                        await page.goto('https://www.google.com/');
+                        await page.waitForNetworkIdle(); res.data
+                    { browserWSEndpoint: res.data.data.ws.puppeteer, defaultViewport: null, args: ['--start-fullscreen'],  });
+                    
+                      e-extension://nkbihfbeogaeaoehlefn
