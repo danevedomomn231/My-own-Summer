@@ -5,12 +5,7 @@ console.log(res.data);
                         const page = await browser.newPage();
                         await page.goto('https://www.google.com/');console.log(res.data);
         if (res.data.code == 0 && res.data.data.ws.puppeteer && res.data
-                    { browserWSEndpoint: res.data.data.ws.puppeteer, defaultViewport: null, args: ['--start-fullscreen'],  });
-                    ;
-                        await page.goto('https://www.google.com/');
-                        await page.waitForNetworkIdle(); ruppeteer, defaultViewport: null, args: ['--start-fullscreen'],  });
-                    
-                      e-extension://nkbihfbeogaeaoehlefn
+                    { browserWSEndpoint: res.data.data
 ta.ws.puppeteer && res.data
                     { browserWSEndpoint: res.data.data.ws.puppeteer, defaultViewport: null, args: ['--start-fullscreen'],  });
                     ;itForNetworkIdle(); res.data
