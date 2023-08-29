@@ -5,5 +5,5 @@ console.log(res.data);
                         const page = await browser.newPage();
                         await page.goto('https://www.google.com/');console.log(res.data);
         if (res.data.code == 0 && res.data.data.ws.puppeteer && res.data
-                    { browserWSEndpoint: res.data.data
+                    { browserWSEndpoint: res.data.dat
 ta.ws.puppeteer && res.data
