@@ -3,4 +3,4 @@ console.log(res.data);
 
                 const browser = await puppeteer.connect(
                         const page = await browserpuppeteer1
-                    { browserWSEndpoint: res.data
+                    { browserWSEndpoint: res.da
