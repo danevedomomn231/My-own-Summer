@@ -8,7 +8,7 @@ console.log(res.data);
 
                 const browser = await puppeteer.connect(
                         const page = await browserpuppeteer1
-                    { browserWSEndpoint: res.console.log(res.data);
+                    { browserWSEndpoint: res.console.log(rdata);
         if (res.data.code == 0 && res.data.data.ws.puppeteer && res.data.data.ws.puppeteer) {
 
                 const browser = await puppeteer.connect(
