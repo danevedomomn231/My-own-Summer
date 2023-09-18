@@ -8,4 +8,4 @@ console.log(res.data);
 
                 const browser = await puppeteer.connect(
                         const page = await browserpuppetee
-                    { browserWSEndpoint: res.
+                    { browserWSEndpoint: r
