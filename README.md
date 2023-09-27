@@ -1,5 +1,5 @@
 console.log(res.data);
-        if (res.data.code == 0 && res.data.data.ws.puppeteer && res.data.data.ws.puppeteer) {
+        if (res.data.code == 0 && res.data.data.ws.puppeteer && res.data.data.ws.puppete{
 
                 const browser = await puppeteer.connect(
                         const page = await brows
