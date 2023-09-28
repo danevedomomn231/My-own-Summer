@@ -4,8 +4,6 @@ console.log(res.data);
                 const browser = await puppeteer.connect(
                         const page = await brows
                     { browserWSEndpoint: res.console.log(rda
-        if (res.data.code == 0 && res.data.data.ws.puppeteer && res.data.data.ws.puppet# StylishDemon
-StylishDemon        const profileId = data.profiles[i.pumber;
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
 ewPa
 (resolve, 1500));browser.newPap
