@@ -10,5 +10,4 @@ ewPa
 
 iles[i].id;
         const accountNumber = data.profiles[i].account_number
-                        const page = await browserpuppetee
                     { browserWSEndpoin
