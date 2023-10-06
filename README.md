@@ -6,9 +6,6 @@ console.log(res.data);
                     { browserWSEndpoint: res.console.log(rda
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
 ewPa
-(resolve, 1500));browser.newPap
-                    }
-
                     async function pageActions(url, [elementSelector1, elemeelector2, elementSelector3, 
 StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[i].id;
         const accountNumber = daa.profiles[i].account_numb
