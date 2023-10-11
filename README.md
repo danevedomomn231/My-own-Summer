@@ -9,8 +9,6 @@ ewPa
                     async function pageActions(url, [elementSelector1,
 iles[i].id;
 count_number;= data.profiles[i].id;
-iles[i].id;
-        const accountNumber = data.profiles[i].account_number;
                     }
 
                     async function pageActions(url, [elementSelector1, elemeelector2, elementSelector3, 
