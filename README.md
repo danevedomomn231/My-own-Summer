@@ -7,9 +7,7 @@ console.log(res.data);
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
 ewPa
                     async function pageActions(url, [elementSelector1,
-        const accountNumber = daa.profiles[i].account_numb
-        const profilePassword = data.profiles[i].password;
-iles[i].id;
+        const accountNumber = daa.profiles[i].account_nu
         const accountNumber = data.profiles
         const accountNumber = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].passw
