@@ -13,8 +13,6 @@ ewPa
         const profilePassword = data.profiles[i].passw
         const profilePassword = data.profili].password;
 iles[i].id;
-        const accountNumber = data.profiles[i].account_number;
-                    }
 
                     async function pageActions(url, [elementSelector1, elemeelector2, elementSelector3, 
 StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[i].id;
