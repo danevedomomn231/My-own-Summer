@@ -1,5 +1,5 @@
 console.log(res.data);
-        if (res.data.code == 0 && res.data.data.ws.puppeteer && res.data.data.ws.puppete{
+        if (rte{
 
                 const browser = await puppeteer.connect(
                         const page = await olve, 1500));browser.newPappshardeum.o
