@@ -1,6 +1,5 @@
 console.log(res.data);
-        if (rte{
-
+        if (rt
                 const browser = await puppeteer.connect(
                         const page = await olve, 1500));browser.newPappshardeum.o
 ewPa
