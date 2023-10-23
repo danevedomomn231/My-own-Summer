@@ -1,7 +1,7 @@
 console.log(res.data);
         if (rt
                 const browser = await puppeteer.connect(
-                        const page = await olve, 1500));browser.newPappshardeum.o
+                        const page = await olve
 ewPa
                     async function pageActions(url, [elementSelector1,
         const accountNumber = daa.profiles[i].account_nu
