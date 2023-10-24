@@ -1,7 +1,6 @@
 console.log(res.data);
         if (rt
-                const browser = await puppeteer.connect(
-                        const page = await olve
+                const browser = await puppet
 ewPa
                     async function pageActions(url, [elementSelector1,
         const accountNumber = daa.profiles[i].account_nu
