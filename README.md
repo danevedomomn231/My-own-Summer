@@ -1,6 +1,4 @@
-console.log(res.data);
-        if (rt
-                const br = await puppet
+console.l await puppet
 ewPa
                     async function pageActions(url, [elementSelector1,
         const accountNumber = daa.profiles[i].account_nu
