@@ -1,7 +1,6 @@
 console.l await puppet
 ewPa
-                    async function pageActions(url, [elementSelector1,
-        const accountNumber = daa.profiles[i].account_nu
+                    async function pages[i].account_nu
         const accountNumber = data.profiles
         const accountNumber = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].passw
