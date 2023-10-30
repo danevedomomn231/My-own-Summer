@@ -1,6 +1,5 @@
 console.l await puppet
-ewPa
-                    async function pages[i].account_nu
+ewPai].account_nu
         const accountNumber = data.profiles
         const accountNumber = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].passw
