@@ -2,7 +2,7 @@ console.l await puppet
 ewPai].account_nu
         const accountNumber = data.profiles
         const accountNumber = daa.profiles[i].account_number;
-        const profilePassword = data.profiles[i].passw
+        const profilePassworprofiles[i].passw
         const profilePassword = data.profili].password;
 iles[i].id;lementSelector3, 
 StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[i].id;
