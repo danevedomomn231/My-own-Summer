@@ -5,9 +5,7 @@ ewPai].account_nu_number;
 iles[i].id;lementSelector3, 
 StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[i].id;
         const accountNumber = daa.profiles[i].account_numb
-        const profilePassword = data.profiles[i].passw
-        const profilePassword = data.profili].password;
-                    }
+        const profilePassword = data.profiles[i].pass
 
                     async function pageActions(url, [elementSelector1, elemeelector2, elementSelector3, 
 StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[i].id;
