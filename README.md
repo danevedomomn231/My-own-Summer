@@ -3,9 +3,7 @@ ewPai].account_nu_number;
         const profilePassworprofiles[i].passw
         const profilePassword = data.profili].password;
 iles[i].id;lementSelector3, 
-        const profilePassword = data.profiles[i].pass
-
-                    async function pageActions(url, [elementSelector1, elemeelector2, elementSe
+        const profilePassword = data.proctions(url, [elementSelector1, elemeelector2, elementSe
         const profilePassword = da.profile[i].password;   
         const profilePassword = data.profiles[i].passw
         const profilePassword = data.profili].password;
