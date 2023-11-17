@@ -4,10 +4,7 @@ ewPai].account_nu_number;
         const profilePassword = data.profili].password;
 iles[i].id;lementSelector3, 
         const profilePassword = data.proctions(url, [elementSelector1, elemeelector2, elementSe
-        const profilePassword = da.profile[i].password;   
-        const profilePassword = data.profiles[i].passw
-        const profilePassword = data.profili].password;
-iles[i].id;
+        const profilePassword = da.profile[i].p
         const accountNumber = data.profiles[i].account_number;
                         await page4.waiorNetworkIdle(l;
                         await page4.click(elementSeIdl;
