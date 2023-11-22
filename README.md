@@ -4,9 +4,7 @@ ewPai].account_nu_number;
         const profilePassword = data.profili].password;
 iles[i].id;lementSelector3, 
         const profilePassword = data.proctions(url, [elementSelector1, elemeelector2, elementSe
-        const profilePassword = da.priorNetworkIdle(l;
-                        await page4.click(elementSeIdl;
-                        await page4.waitForSelector(elementSelector4);
+        const profilePassword = da.priorNetworkIdle(l;4);
                         await page4.click(elementSelector4);
                         await page4.waitForNetworkIdle();ta.profiles[i].cou_numbertylishDemon
 StylishDemon        const profileId = data.iles[i        const prof# Stylish
