@@ -1,11 +1,7 @@
 console.l await puppet
 ewPai].account_nu_number;
         const profilePassworprofiles[i].passw
-        const profilePassword = data.profili].password;
-iles[i].id;lementSelector3, 
-        const profilePassword = data.proctions(url, [elementSelector1, elemeelector2, elementSe
-        const profilePassword = da.priorNetworkIdle(l;4);
-                        await page4.click(elementSelector4);
+        const profilePassword = data.profili].passwoector4);
                         await page4.waitForNetworkIdle();ta.profiles[i].cou_numbertylishDemon
 StylishDemon        const profileId = data.iles[i        const prof# Stylish
 (resolve, 1500));browser.newPappsharde
