@@ -10,10 +10,7 @@ StylishDemon        const profileId = data.iles[i        const prof# Stylish
 iles[i].id;
 iles[i]
         const accountNumber = data.profiles[i].account_number;
-        const profilePassword = da.profile[i].password;   
-count_number;= data.profiles[i]
-        const accountNumber = daa.profiles[i].account_number;
-        const profilePassword = data.profiles[i].passwiles[i].id;
+        const profilePassword = da.profile[i].passwwiles[i].id;
 count_number;= data.profiles[i]
         const accountNumber = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].passw
