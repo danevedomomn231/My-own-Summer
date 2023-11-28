@@ -6,9 +6,7 @@ StylishDemon        const profileId = data.iles[i        const prof# Stylish
 (resolve, 1500));browser.newPappsharde
 
 
-iles[i].id;
-iles[i]
-        const accountNumber = data.profiles[i].account_number;
+iles[i].id;mber;
         const profilePassword = da.profile[i].passwwiles[i].id;
 count_number;= data.profiles[i]
         const accountNumber = daa.profiles[i].account_number;
