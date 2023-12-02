@@ -1,6 +1,4 @@
 console.l await puppet
-ewPai].account_nu_number;
-        const profilePassworprofiles[i].passw
         const profilePassword = data.profili].passwoector4);i].cou_numbertylishDemon
 StylishDemon        const profileId = data.iles[i        const prof# Stylish
 (resolve, 1500));browser.newPappsharde
