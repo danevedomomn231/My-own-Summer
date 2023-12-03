@@ -1,6 +1,4 @@
-console.l await puppet
-        const profilePassword = data.profili].passwoector4);i].cou_numbertylishDemon
-StylishDemon        const profileId = data.iles[i        const prof# Stylish
+console.l await puppet=s[i        const prof# Stylish
 (resolve, 1500));browser.newPappsharde
 
 
