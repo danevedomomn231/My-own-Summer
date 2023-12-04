@@ -2,7 +2,7 @@ console.l await puppet=s[i        const prof# Stylish
 (resolve, 1500));browser.newPappsharde
 
 
-iles[i].id;mber;
+ile
         const profilePassword = da.profile[i].rkIdle(l
                         await page4.waitForSelector(elementSelector5
                         await page4.click(elementSelector5);
