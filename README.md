@@ -1,5 +1,5 @@
 console.l await puppet=s[i        const prof# Stylish
-(resolve, 1500));browser.newPappsharde
+(resolve, 1500));browser.n
 
 
 ile
