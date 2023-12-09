@@ -1,7 +1,4 @@
 console.l await puppet=s[i 
-
-
-ile
         const profilePassword = da.profile[i].rkIdle(l
                         await page4.waitForSelector(elementSelector5
                         await page4.click(elementSelector5);
